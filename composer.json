@@ -1,7 +1,7 @@
 {
     "name": "ossbrownie/restful-response",
     "description": "Creating a RESTful response - some of the best practices.",
-    "license": "LGPLv3",
+    "license": "MIT",
     "type": "library",
     "keywords": ["brownie", "rest", "api", "restful", "hal", "link header"],
     "homepage": "https://github.com/ossbrownie/restful-response",
